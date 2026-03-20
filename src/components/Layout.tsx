@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import { BarChart3, Package, Palette, CreditCard, LogOut, Menu, X } from 'lucide-react';
